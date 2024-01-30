@@ -1,2 +1,2 @@
-# hello-world-zig
+# Hello World Zig
 Hello World Zig
